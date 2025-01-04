@@ -1,1 +1,1 @@
-# PrepTalk
+# preptalk-legal
